@@ -4,3 +4,5 @@ In this repo, you can find the code for the prototype developed for the Green EV
 
 For RL algorithm code, please refer the /rl_src directory.
 For the sensor reading code, please refer the /sensor_src directory.
+
+Our training plot is also included in this repository: training.png
